@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Coming Soon
-datePublished: '2016-06-03T03:34:29.315Z'
-dateModified: '2016-06-03T03:34:22.069Z'
-title: ''
+description: 06.16.16
+datePublished: '2016-06-03T03:42:19.095Z'
+dateModified: '2016-06-03T03:42:13.051Z'
+title: Coming Soon
 author: []
 authors: []
 publisher: null
@@ -19,6 +19,6 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bfdcfa4-cf53-474e-8d7b-56dde5742f73.jpg)
 
-Coming Soon
+# Coming Soon
 
-06\.
+06.16.16
