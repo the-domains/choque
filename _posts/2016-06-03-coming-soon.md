@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 06.16.16
-datePublished: '2016-06-03T03:44:01.355Z'
-dateModified: '2016-06-03T03:42:57.462Z'
+datePublished: '2016-06-03T04:19:20.394Z'
+dateModified: '2016-06-03T04:17:05.830Z'
 title: Coming Soon
 author: []
 authors: []
 publisher: null
+starred: false
 sourcePath: _posts/2016-06-03-coming-soon.md
-starred: true
 url: coming-soon/index.html
 _type: Article
 
