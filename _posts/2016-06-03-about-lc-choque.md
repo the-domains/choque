@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-03T04:44:21.833Z'
-dateModified: '2016-06-03T04:43:40.293Z'
+datePublished: '2016-06-03T04:47:18.947Z'
+dateModified: '2016-06-03T04:44:29.150Z'
 title: About LC Choque
 author: []
 authors: []
@@ -20,4 +20,4 @@ _type: Article
 # About LC Choque
 
   
-Graduated with a degree in Digital Media with an emphasis in Cinema Productions. 7+ years experience in film/photography. Passionate about sharing the imperfectly perfect places and people I see and meet. and people  on camera with others.
+Graduated with a degree in Digital Media with an emphasis in Cinema Productions. 7+ years experience in film/photography. Passionate about sharing the experience of the imperfectly perfect places and people I see and meet with others.
