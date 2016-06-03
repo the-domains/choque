@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Coming Soon
-datePublished: '2016-06-03T01:10:23.245Z'
-dateModified: '2016-06-03T00:47:24.597Z'
+datePublished: '2016-06-03T03:34:29.315Z'
+dateModified: '2016-06-03T03:34:22.069Z'
 title: ''
 author: []
 authors: []
@@ -20,3 +20,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bfdcfa4-cf53-474e-8d7b-56dde5742f73.jpg)
 
 Coming Soon
+
+06\.
