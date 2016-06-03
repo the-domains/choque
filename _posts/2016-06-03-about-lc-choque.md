@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-03T04:47:18.947Z'
-dateModified: '2016-06-03T04:44:29.150Z'
+datePublished: '2016-06-03T04:56:02.578Z'
+dateModified: '2016-06-03T04:47:22.251Z'
 title: About LC Choque
 author: []
 authors: []
