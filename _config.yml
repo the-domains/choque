@@ -1,6 +1,6 @@
 name: Choque Visuals
 favicon: null
-layout_spectrum: 0.23435
+layout_spectrum: 0.44991
 typography_spectrum: 0.80501
 title: Choque Visuals
 cta:
@@ -22,7 +22,7 @@ color:
     - '#c6c634'
     - '#dfe1e0'
     - '#989898'
-  brandStrength: 0.75
+  brandStrength: 0.8125
   lightness: 1
   saturation: 1
   rhythmicContrast: 0.25
